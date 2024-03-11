@@ -19,11 +19,14 @@ The application is composed of a frontend and a backend component.
 To initialize the frontend, change directory into it and type "npm install" into the terminal. Then, type "npm run dev" to start the backend on its port (4000).
 To initialize the backend, change directory into it and type "npm install" into the terminal. Then, type "npm start" to start the frontend on its port (3000).
 
+
 Email being recieved:
 ![Email being recieved: ](Demo3.PNG)
 
+
 Application homepage:
 ![Application homepage: ](Demo1.PNG)
+
 
 Application Login page:
 ![Application Login page: ](Demo2.PNG)
